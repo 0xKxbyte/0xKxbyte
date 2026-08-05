@@ -128,52 +128,16 @@ const dev = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xKxbyte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117&langs_count=6" alt="Top Languages"/>
+<!--<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xKxbyte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117&langs_count=6" alt="Top Languages"/>-->
 
 <br/><br/>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=0xKxbyte&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" alt="Streak Stats"/>
 
 <br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_token: ${{ secrets.GITHUB_TOKEN }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" width="98%" src="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 
 </div>
 
