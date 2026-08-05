@@ -1,36 +1,19 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ANIMATED HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=0xKxbyte&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20%E2%80%A2%20Automation%20%E2%80%A2%20Game%20Dev&descSize=16&descColor=aaaaaa&descAlignY=62&animation=twinkling"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+%7C+Zero+Trust+%7C+AES-256+%F0%9F%94%90;Automation+%26+Web+Scraping+%F0%9F%A4%96;Game+Dev+%7C+Unreal+Engine+5+%F0%9F%8E%AE;Voice+Actor+%7C+Game+Dubbing+%F0%9F%8E%99;Content+Creator+%40+YouTube+%F0%9F%93%BA;Criando+Tecnologia.+Compartilhando+Conhecimento." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+%7C+Zero+Trust+%7C+AES-256+%F0%9F%94%90;Automation+%26+Web+Scraping+%F0%9F%A4%96;Game+Dev+%7C+Unreal+Engine+5+%F0%9F%8E%AE;Voice+Actor+%7C+Game+Dubbing+%F0%9F%8E%99;Content+Creator+%40+YouTube+%F0%9F%93%BA;Criando+Tecnologia.+Compartilhando+Conhecimento." alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- BADGES SOCIAIS -->
-<a href="https://0xkxbyte.online/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/@0xKxbyte" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/0xkxbyte/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://0xkxbyte.online/bio_0xkxbyte/" target="_blank">
-  <img src="https://img.shields.io/badge/Bio%20%26%20Links-Click%20Here-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white"/>
-</a>
+<a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.youtube.com/@0xKxbyte"><img src="https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/0xkxbyte/"><img src="https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://0xkxbyte.online/bio_0xkxbyte/"><img src="https://img.shields.io/badge/Bio%20%26%20Links-Here-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=0xKxbyte&label=Profile+Views&color=0d0d0d&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=0xKxbyte&label=Profile+Views&color=0d0d0d&style=flat-square"/>
 
 </div>
 
@@ -52,7 +35,7 @@ const dev = {
 };
 ```
 
-> Desenvolvedor Full-Stack autodidata com foco em **sistemas web seguros**, **automação de processos** e **arquitetura escalável**. Crio soluções do front-end ao back-end, com diferencial em segurança da informação aplicada. Também atuo como **dublador de jogos** em projeto indie com Unreal Engine 5.
+> Desenvolvedor Full-Stack autodidata com foco em **sistemas web seguros**, **automação de processos** e **arquitetura escalável**. Do front-end ao back-end, com diferencial em segurança da informação aplicada. Também atuo como **dublador de jogos** em projeto indie com Unreal Engine 5.
 
 ---
 
@@ -110,6 +93,13 @@ const dev = {
 ![Blueprint](https://img.shields.io/badge/Blueprint-0E1128?style=for-the-badge&logo=unrealengine&logoColor=1baeff)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
+**— Design & Tools —**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </div>
 
 ---
@@ -120,13 +110,13 @@ const dev = {
 
 | Projeto | Descrição | Stack |
 |:--|:--|:--|
-| 🔐 **Auth & Security Module** | Autenticação multi-etapas · Zero Trust · AES-256 E2E · restrição por IP | PHP · MVC |
-| 📊 **Admin & Finance System** | CRUD completo · pagamentos · dashboard financeiro · **~80% menos trabalho manual** | PHP · MySQL · Bootstrap |
-| 👤 **Biometric HR Module** | Verificação facial · validação CPF · controle de presença via CSV | PHP · CSV |
-| 🤖 **Automation Bots & Scraper** | Web scraping em larga escala · automação de formulários | Python · Node.js |
+| 🔐 **Auth & Security Module** | Autenticação multi-etapas · Zero Trust · AES-256 · restrição por IP | PHP · MVC |
+| 📊 **Admin & Finance System** | CRUD completo · pagamentos · dashboard · **~80% menos trabalho manual** | PHP · MySQL |
+| 👤 **Biometric HR Module** | Verificação facial · validação CPF · presença via CSV | PHP · CSV |
+| 🤖 **Automation Bots & Scraper** | Web scraping em escala · automação de formulários | Python · Node.js |
 | 🎮 **MineBlockBrasilLauncher** | Launcher customizado para servidor Minecraft | C# |
 | 🧹 **SplineRemove** | Remove ads/logos do Spline Viewer via Shadow DOM | JavaScript |
-| 📷 **Sistema Segurança Camera** | Sistema de câmera de segurança estilo games indie | C# · Unity |
+| 📷 **Sistema Câmera Segurança** | Sistema de câmera estilo games indie | C# · Unity |
 
 </div>
 
@@ -136,26 +126,22 @@ const dev = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xKxbyte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117" alt="langs"/>
-
-</div>
+> ⚠️ **AÇÃO NECESSÁRIA:** As imagens abaixo só funcionam depois que você criar o repositório especial do GitHub.
+> **Crie um repositório público com o nome exato: `0xKxbyte`** (igual ao seu usuário).
+> Depois cole este README.md nele. Os stats vão carregar automaticamente.
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xKxbyte&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&stroke=1a1a2e" alt="streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xKxbyte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117&langs_count=6" alt="Top Languages"/>
 
-</div>
+<br/><br/>
 
----
+<img width="98%" src="https://streak-stats.demolab.com?user=0xKxbyte&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" alt="Streak Stats"/>
 
-## 📈 Activity Graph
+<br/><br/>
 
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="activity graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -163,23 +149,8 @@ const dev = {
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" width="98%"
-    src="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
-<details>
-<summary>⚙️ <b>Como ativar a Snake (clique aqui)</b></summary>
-
-Crie o arquivo `.github/workflows/snake.yml` com este conteúdo:
+> ⚠️ **AÇÃO NECESSÁRIA para a Snake aparecer:**
+> Após criar o repositório `0xKxbyte`, crie o arquivo `.github/workflows/snake.yml` com o conteúdo abaixo e execute o workflow manualmente uma vez em **Actions → Generate Snake Animation → Run workflow**.
 
 ```yaml
 name: Generate Snake Animation
@@ -205,7 +176,15 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-</details>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" width="98%" src="https://raw.githubusercontent.com/0xKxbyte/0xKxbyte/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ---
 
@@ -230,17 +209,17 @@ jobs:
 
 ---
 
-## 📺 YouTube — Conteúdo Técnico
+## 📺 YouTube
 
 <div align="center">
 
-<a href="https://www.youtube.com/@0xKxbyte" target="_blank">
-  <img src="https://img.shields.io/badge/▶%20%20Assistir%20%40%200xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000"/>
+<a href="https://www.youtube.com/@0xKxbyte">
+<img src="https://img.shields.io/badge/▶%20%20Assistir%20%40%200xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000"/>
 </a>
 
 </div>
 
-Conteúdo sobre **dev web**, **lógica de programação**, **automação** e **segurança da informação** — para quem quer aprender na prática.
+Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **segurança da informação**.
 
 ---
 
@@ -248,18 +227,10 @@ Conteúdo sobre **dev web**, **lógica de programação**, **automação** e **s
 
 <div align="center">
 
-<a href="https://0xkxbyte.online/">
-  <img src="https://img.shields.io/badge/🌐  Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge"/>
-</a>
-<a href="https://www.youtube.com/@0xKxbyte">
-  <img src="https://img.shields.io/badge/📺  YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/0xkxbyte/">
-  <img src="https://img.shields.io/badge/📸  Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://0xkxbyte.online/bio_0xkxbyte/">
-  <img src="https://img.shields.io/badge/🔗  Bio  &  Links-Todos os links-1a1a2e?style=for-the-badge"/>
-</a>
+<a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/🌐 Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge"/></a>
+<a href="https://www.youtube.com/@0xKxbyte"><img src="https://img.shields.io/badge/📺 YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.instagram.com/0xkxbyte/"><img src="https://img.shields.io/badge/📸 Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://0xkxbyte.online/bio_0xkxbyte/"><img src="https://img.shields.io/badge/🔗 Bio & Links-Todos os links-1a1a2e?style=for-the-badge"/></a>
 
 </div>
 
