@@ -75,8 +75,7 @@ Sou um desenvolvedor autodidata apaixonado por construir **sistemas web completo
 ![AES](https://img.shields.io/badge/AES--256_E2E-1a1a1a?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP_Fundamentos-1a1a1a?style=for-the-badge&logo=owasp&logoColor=white)
 
-### Saiba mais
-![](https://0xkxbyte.online/)
+### Entre Outros - Portfolio
 
 </div>
 
