@@ -76,7 +76,7 @@ Sou um desenvolvedor autodidata apaixonado por construir **sistemas web completo
 ![OWASP](https://img.shields.io/badge/OWASP_Fundamentos-1a1a1a?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### Saiba mais
-![Entre Outros]
+![](https://0xkxbyte.online/)
 
 </div>
 
