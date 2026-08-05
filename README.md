@@ -126,18 +126,12 @@ const dev = {
 
 ## 📊 GitHub Stats
 
-> ⚠️ **AÇÃO NECESSÁRIA:** As imagens abaixo só funcionam depois que você criar o repositório especial do GitHub.
-> **Crie um repositório público com o nome exato: `0xKxbyte`** (igual ao seu usuário).
-> Depois cole este README.md nele. Os stats vão carregar automaticamente.
-
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xKxbyte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=888888&icon_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=888888&bg_color=0d1117&langs_count=6" alt="Top Languages"/>
 
 <br/><br/>
-
-<img width="98%" src="https://streak-stats.demolab.com?user=0xKxbyte&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" alt="Streak Stats"/>
 
 <br/><br/>
 
@@ -148,9 +142,6 @@ const dev = {
 ---
 
 ## 🐍 Contribution Snake
-
-> ⚠️ **AÇÃO NECESSÁRIA para a Snake aparecer:**
-> Após criar o repositório `0xKxbyte`, crie o arquivo `.github/workflows/snake.yml` com o conteúdo abaixo e execute o workflow manualmente uma vez em **Actions → Generate Snake Animation → Run workflow**.
 
 ```yaml
 name: Generate Snake Animation
