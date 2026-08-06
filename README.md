@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+%7C+Zero+Trust+%7C+AES-256+%F0%9F%94%90;Automation+%26+Web+Scraping+%F0%9F%A4%96;Game+Dev+%7C+Unreal+Engine+5+%F0%9F%8E%AE;Voice+Actor+%7C+Game+Dubbing+%F0%9F%8E%99;Content+Creator+%40+YouTube+%F0%9F%93%BA;Criando+Tecnologia.+Compartilhando+Conhecimento." alt="Typing SVG"/>
 
+<img src="Linux.gif" alingn="left">
+
 <br/><br/>
 
 <a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
