@@ -13,9 +13,10 @@
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=0xKxbyte&label=Profile+Views&color=0d0d0d&style=flat-square"/>
+
 <img src="Linux.gif" alingn="right" margin="5px">
 
-<img src="https://komarev.com/ghpvc/?username=0xKxbyte&label=Profile+Views&color=0d0d0d&style=flat-square"/>
 
 </div>
 
