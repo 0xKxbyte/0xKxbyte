@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="Linux.gif" alingn="right">
+<img src="Linux.gif" alingn="right" margin="5px">
 
 <a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/@0xKxbyte"><img src="https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
