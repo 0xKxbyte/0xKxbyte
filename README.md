@@ -6,14 +6,14 @@
 
 <br/><br/>
 
-<img src="Linux.gif" alingn="right" margin="5px">
-
 <a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/@0xKxbyte"><img src="https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/0xkxbyte/"><img src="https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://0xkxbyte.online/bio_0xkxbyte/"><img src="https://img.shields.io/badge/Bio%20%26%20Links-Here-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 
 <br/><br/>
+
+<img src="Linux.gif" alingn="right" margin="5px">
 
 <img src="https://komarev.com/ghpvc/?username=0xKxbyte&label=Profile+Views&color=0d0d0d&style=flat-square"/>
 
