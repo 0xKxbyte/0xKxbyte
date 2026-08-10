@@ -200,6 +200,8 @@ Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **s
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=twinkling"/>
 
+<img src="trabalhar.gif" alingn="right" margin="5px">
+
 *— Criando Tecnologia. Compartilhando Conhecimento. —*
 
 </div>
