@@ -194,7 +194,7 @@ Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **s
 
 </div>
 
-<div align="Center" font-size="100px"> 
+<div align="Center"> 
 
 — Thank You 🖖☕😃 —
 
