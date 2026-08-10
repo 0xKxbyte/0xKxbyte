@@ -194,7 +194,11 @@ Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **s
 
 </div>
 
+<div align="Center"> 
+
 — Thank You 🖖☕😃 —
+
+</div>
 
 <img src="trabalhar.gif" alingn="right" margin="5px">
 
