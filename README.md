@@ -137,8 +137,6 @@ em Breve teremos Projetos
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=0xKxbyte&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" alt="Streak Stats"/>
-
 <br/><br/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="Activity Graph"/>
