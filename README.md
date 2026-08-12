@@ -29,7 +29,7 @@
 ```ts
 const dev = {
   alias    : "0xKxbyte",
-  name     : "João Gabriel Ferrari",
+  name     : "João",
   role     : "Full-Stack Developer",
   location : "Minas Gerais, Brasil 🇧🇷  —  GMT-3  —  Remote Only",
   stack    : ["PHP", "Node.js", "Python", "C#", "React", "TypeScript"],
