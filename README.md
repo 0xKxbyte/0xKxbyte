@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a28dc7a0-4e1e-4453-a538-a62eb35a3d3a" /><div align="center">
+<img width="600" height="600" /><div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=0xKxbyte&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20%E2%80%A2%20Automation&descSize=16&descColor=aaaaaa&descAlignY=62&animation=twinkling"/>
 
