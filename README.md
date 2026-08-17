@@ -1,8 +1,8 @@
 <!--<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a28dc7a0-4e1e-4453-a538-a62eb35a3d3a" /><div align="center">-->
 
-<!--<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=0xKxbyte&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20%E2%80%A2%20Automation&descSize=16&descColor=aaaaaa&descAlignY=62&animation=twinkling"/>-->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=0xKxbyte&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20%E2%80%A2%20Automation&descSize=16&descColor=aaaaaa&descAlignY=62&animation=twinkling"/>
 
-<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+%7C+Zero+Trust+%7C+AES-256+%F0%9F%94%90;Automation+%26+Web+Scraping+%F0%9F%A4%96;Inform%C3%A1tica+%26+Suporte+T%C3%A9cnico+%F0%9F%96%A5%EF%B8%8F;Content+Creator+%40+YouTube+%F0%9F%93%BA;Criando+Tecnologia.+Compartilhando+Conhecimento." alt="Typing SVG"/>-->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=50&lines=Full-Stack+Developer+%F0%9F%92%BB;Security+%7C+Zero+Trust+%7C+AES-256+%F0%9F%94%90;Automation+%26+Web+Scraping+%F0%9F%A4%96;Inform%C3%A1tica+%26+Suporte+T%C3%A9cnico+%F0%9F%96%A5%EF%B8%8F;Content+Creator+%40+YouTube+%F0%9F%93%BA;Criando+Tecnologia.+Compartilhando+Conhecimento." alt="Typing SVG"/>
 
 <br/><br/>
 
