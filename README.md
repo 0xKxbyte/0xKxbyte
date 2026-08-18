@@ -32,11 +32,11 @@ const dev = {
   name     : "João",
   role     : "Full-Stack Developer",
   location : "Minas Gerais, Brasil 🇧🇷  —  GMT-3  —  Remote Only",
-  stack    : ["PHP", "Node.js", "Python", "C#", "React", "TypeScript"],
-  security : ["Zero Trust", "AES-256 E2E", "IP Access Control"],
+  stack    : ["Java", "Node.js", "Python", "C#", "React", "TypeScript"],
   office   : ["Word", "Excel", "PowerPoint", "Teams"],
   hardware : ["Formatação", "Instalação Linux/Windows", "Troca de peças", "Pasta térmica"],
   youtube  : "Conteúdo técnico: dev, lógica, automação 📺",
+  Outros   : "Entre Outras Areas de Trabalho",
   status   : "open_to_work: true  //  remote only",
 };
 ```
