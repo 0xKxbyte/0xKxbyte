@@ -91,11 +91,11 @@ const dev = {
 
 **Produtividade & Escritório**
 
-<img src="https://img.shields.io/badge/-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
-<img src="https://img.shields.io/badge/-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--2B579A?logo=microsoftword&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--217346?logo=microsoftexcel&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--B7472A?logo=microsoftpowerpoint&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--6264A7?logo=microsoftteams&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--00C4CC?logo=canva&logoColor=white"/>
 
 </div>
 
