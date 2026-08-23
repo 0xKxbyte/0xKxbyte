@@ -100,9 +100,6 @@ const dev = {
 
 
 </div>
-
-> **Suporte técnico & hardware:** instalação de Linux/Windows, formatação, troca de peças, troca de pasta térmica e remoção de vírus.
-
 ---
 
 ## 🚀 Projetos
@@ -129,8 +126,6 @@ Em breve novidades por aqui 👀
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9"/>
 
 </div>
-
-> ⚠️ Troque `0xKxbyte` pelo seu usuário exato do GitHub nos links acima caso seja diferente.
 
 ---
 
