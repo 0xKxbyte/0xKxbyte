@@ -120,10 +120,6 @@ Em breve novidades por aqui 👀
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="Activity Graph"/>
 
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0xKxbyte&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=888888&text_color=c9c9c9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xKxbyte&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9"/>
 
 </div>
 
