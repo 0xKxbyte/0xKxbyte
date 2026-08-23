@@ -16,15 +16,15 @@
 <img src="https://komarev.com/ghpvc/?username=0xKxbyte&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0d0d0d&style=flat-square"/>
 <img src="https://img.shields.io/badge/status-aberto%20a%20oportunidades-brightgreen?style=flat-square"/>
 
-<br/><br/>
-
-<img width="230" align="right" src="Linux.gif"/>
-
 </div>
 
 ---
 
 ## 👋 whoami
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ```ts
 const dev = {
@@ -40,6 +40,15 @@ const dev = {
 ```
 
 > Desenvolvedor Full-Stack autodidata, freelancer e **em busca ativa de uma posição fixa remota**. Atuo do front-end ao back-end, com experiência complementar em suporte técnico e manutenção de informática. Também crio conteúdo, cursos e projetos de tecnologia na internet.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img width="200" src="Linux.gif"/>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -148,6 +157,10 @@ Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **s
 
 ## 📬 Contato
 
+<table>
+<tr>
+<td width="65%" valign="middle">
+
 <div align="center">
 
 <a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/🌐%20Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge"/></a>
@@ -161,9 +174,14 @@ Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **s
 
 </div>
 
-<img width="230" align="right" src="trabalhar.gif"/>
+</td>
+<td width="35%" align="center" valign="middle">
 
-<br/>
+<img width="200" src="trabalhar.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
