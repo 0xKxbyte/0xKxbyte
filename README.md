@@ -97,6 +97,19 @@ const dev = {
 <img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi&theme=dark&perline=9"/>
 
 <br/>
+
+**Produtividade & Escritório**
+
+<img height="40" src="https://img.shields.io/badge/--2B579A?logo=microsoftword&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--217346?logo=microsoftexcel&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--B7472A?logo=microsoftpowerpoint&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--6264A7?logo=microsoftteams&logoColor=white"/>
+<img height="40" src="https://img.shields.io/badge/--00C4CC?logo=canva&logoColor=white"/>
+
+</div>
+
+> **Suporte técnico & hardware:** instalação de Linux/Windows, formatação, troca de peças, troca de pasta térmica e remoção de vírus.
+
 ---
 
 ## 🚀 Projetos
