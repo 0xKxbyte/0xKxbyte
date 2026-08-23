@@ -98,13 +98,6 @@ const dev = {
 
 <br/>
 
-**Produtividade & Escritório**
-
-<img height="40" src="https://img.shields.io/badge/--2B579A?logo=microsoftword&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/--217346?logo=microsoftexcel&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/--B7472A?logo=microsoftpowerpoint&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/--6264A7?logo=microsoftteams&logoColor=white"/>
-<img height="40" src="https://img.shields.io/badge/--00C4CC?logo=canva&logoColor=white"/>
 
 </div>
 
