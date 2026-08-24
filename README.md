@@ -99,8 +99,8 @@ const dev = {
 <br/>
 
 
-</div> 
-<!-- --- -->
+</div>
+---
 
 ## 🚀 Projetos
 
