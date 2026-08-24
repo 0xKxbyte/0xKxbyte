@@ -62,7 +62,7 @@ const dev = {
 
 </div>
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -99,8 +99,8 @@ const dev = {
 <br/>
 
 
-</div>
----
+</div> 
+<!-- --- -->
 
 ## 🚀 Projetos
 
