@@ -62,7 +62,7 @@ const dev = {
 
 </div>
 
----
+
 
 ## 🛠️ Tech Stack
 
