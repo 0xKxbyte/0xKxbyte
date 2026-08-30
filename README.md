@@ -102,8 +102,6 @@ Em breve novidades por aqui 👀
 
 </div>
 
-> 🔗 **[Ver portfólio completo → 0xkxbyte.online](https://0xkxbyte.online/)**
-
 ---
 
 ## 📊 GitHub Stats
