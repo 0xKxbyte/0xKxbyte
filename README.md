@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;Freelancer+%7C+Aberto+a+Oportunidades+Fixas;Cria%C3%A7%C3%A3o+de+Conte%C3%BAdo+%26+Cursos+%F0%9F%93%BA;Suporte+T%C3%A9cnico+%26+Inform%C3%A1tica+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG"/>
 
 <br/>
-
-<a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://0xkxbyte-bio.netlify.app/"><img src="https://img.shields.io/badge/Bio%20%26%20Links-Todos%20os%20links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white"/></a>
 <a href="https://www.youtube.com/@0xKxbytee"><img src="https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/0xkxbyte/"><img src="https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
