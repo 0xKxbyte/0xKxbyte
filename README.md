@@ -139,7 +139,6 @@ Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **s
 
 <div align="center">
 
-<a href="https://0xkxbyte.online/"><img src="https://img.shields.io/badge/🌐%20Portfolio-0xkxbyte.online-0d0d0d?style=for-the-badge"/></a>
 <a href="https://0xkxbyte-bio.netlify.app/"><img src="https://img.shields.io/badge/🔗%20Bio%20%26%20Links-Todos%20os%20links-1a1a2e?style=for-the-badge"/></a>
 <a href="https://www.youtube.com/@0xKxbytee"><img src="https://img.shields.io/badge/📺%20YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.instagram.com/0xkxbyte/"><img src="https://img.shields.io/badge/📸%20Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
