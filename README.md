@@ -88,7 +88,7 @@ const dev = {
 
 **Design & Ferramentas de Dev**
 
-<img src="https://skillicons.dev/icons?i=figma,ai,postman,git,github&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=figma,postman,git,github&theme=dark&perline=9"/>
 
 <br/>
 
