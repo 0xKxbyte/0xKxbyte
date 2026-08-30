@@ -76,7 +76,7 @@ const dev = {
 
 **Front-End & Web**
 
-<img src="https://skillicons.dev/icons?i=react,html,css,sass,jquery&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,sass&theme=dark&perline=9"/>
 
 <br/>
 
@@ -89,12 +89,6 @@ const dev = {
 **Design & Ferramentas de Dev**
 
 <img src="https://skillicons.dev/icons?i=figma,ai,postman,git,github,gitlab&theme=dark&perline=9"/>
-
-<br/>
-
-**Sistemas & Infraestrutura**
-
-<img src="https://skillicons.dev/icons?i=linux,windows,raspberrypi&theme=dark&perline=9"/>
 
 <br/>
 
