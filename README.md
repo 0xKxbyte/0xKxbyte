@@ -92,16 +92,6 @@ const dev = {
 
 </div>
 
-----
-
-## 🚀 Projetos
-
-<div align="center">
-
-Em breve novidades por aqui 👀
-
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -112,20 +102,6 @@ Em breve novidades por aqui 👀
 
 
 </div>
-
----
-
-## 📺 YouTube
-
-<div align="center">
-
-<a href="https://www.youtube.com/@0xKxbytee">
-<img src="https://img.shields.io/badge/▶️%20Assistir%20%40%200xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=cc0000"/>
-</a>
-
-</div>
-
-Conteúdo sobre **dev web**, **automação**, **lógica de programação** e **suporte técnico em informática**.
 
 ---
 
