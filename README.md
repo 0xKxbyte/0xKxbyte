@@ -35,7 +35,6 @@ const dev = {
   alvo       : ["Microsoft", "Itaú", "Bradesco", "Mercado Pago", "e outras"],
   criador    : "cursos, projetos e conteúdo técnico na internet",
   stack      : ["Node.js", "Python", "C#", "React", "TypeScript"],
-  suporte    : "instalação, formatação, troca de peças, pasta térmica, remoção de vírus",
 };
 ```
 
