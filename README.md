@@ -32,7 +32,7 @@ const dev = {
   status     : "freelancer // aberto a proposta fixa (remoto)",
   alvo       : ["Microsoft", "Itaú", "Bradesco", "Mercado Pago", "e outras"],
   criador    : "cursos, projetos e conteúdo técnico na internet",
-  stack      : ["Node.js", "Python", "C#", "React", "TypeScript"],
+  stack      : ["Node.js", "Python", "C#", "React", "TypeScript"]
 };
 ```
 
