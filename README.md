@@ -70,7 +70,7 @@ const dev = {
 
 **Linguagens & Scripting**
 
-<img src="https://skillicons.dev/icons?i=nodejs,py,cs,java,lua,bash,powershell,js,ts&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=nodejs,py,cs,bash,powershell,js,ts&theme=dark&perline=9"/>
 
 <br/>
 
@@ -82,13 +82,13 @@ const dev = {
 
 **Banco de Dados & Cloud**
 
-<img src="https://skillicons.dev/icons?i=postgres,firebase,supabase&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=postgres,firebase&theme=dark&perline=9"/>
 
 <br/>
 
 **Design & Ferramentas de Dev**
 
-<img src="https://skillicons.dev/icons?i=figma,ai,postman,git,github,gitlab&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=figma,ai,postman,git,github&theme=dark&perline=9"/>
 
 <br/>
 
