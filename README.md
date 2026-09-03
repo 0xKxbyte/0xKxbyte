@@ -30,6 +30,7 @@ const dev = {
   role       : "Full-Stack Developer",
   location   : "Minas Gerais, Brasil 🇧🇷  —  GMT-3  —  Remote Only",
   status     : "freelancer // aberto a proposta fixa (remoto)",
+  Services   : "Programador,CyberSecurity,GameDev, Tecnico de Informatica/Servidor",
   alvo       : ["Microsoft", "Itaú", "Bradesco", "Mercado Pago", "e outras"],
   criador    : "cursos, projetos e conteúdo técnico na internet",
   stack      : ["Node.js", "Python", "C#", "React", "TypeScript"]
