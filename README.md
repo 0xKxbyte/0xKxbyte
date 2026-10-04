@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://vercel.app"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=210&section=header&text=0xKxbyte&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Suporte%20T%C3%A9cnico%20%E2%80%A2%20Automa%C3%A7%C3%A3o&descSize=16&descColor=aaaaaa&descAlignY=58&animation=twinkling"/>
 
-<img src="https://demolab.com" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;Freelancer+%7C+Aberto+a+Oportunidades+Fixas;Cria%C3%A7%C3%A3o+de+Conte%C3%BAdo+%26+Cursos+%F0%9F%93%BA;Suporte+T%C3%A9cnico+%26+Inform%C3%A1tica+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG"/>
 
 <br/>
 <a href="https://0xkxbyte-bio.netlify.app/"><img src="https://img.shields.io/badge/Bio%20%26%20Links-Todos%20os%20links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white"/></a>
@@ -27,17 +27,17 @@
 ```ts
 const dev = {
   alias      : "0xKxbyte",
-  role       : "Software Engineer / Full-Stack Developer",
+  role       : "Full-Stack Developer",
   location   : "Minas Gerais, Brasil 🇧🇷  —  GMT-3  —  Remote Only",
   status     : "freelancer // aberto a proposta fixa (remoto)",
-  services   : "Web Full-Stack, CyberSecurity, GameDev 3D, Suporte Técnico",
-  alvo       : ["Microsoft", "Itaú", "Bradesco", "Mercado Pago"],
+  Services   : "Programador, CyberSecurity, GameDev, Tecnico de Informatica/Servidor",
+  alvo       : ["Microsoft", "Itaú", "Bradesco", "Mercado Pago", "e outras"],
   criador    : "cursos, projetos e conteúdo técnico na internet",
-  stack_main : ["TypeScript", "JavaScript", "Java", "Go", "Node.js", "PostgreSQL"]
+  stack      : ["Node.js", "PostgreSQL", "JavaScript", "React", "TypeScript", "Entre Outros"]
 };
 ```
 
-> Engenheiro de Software e Desenvolvedor Full-Stack focado em arquitetura eficiente, sistemas escaláveis e segurança. Atuo de forma autônoma como freelancer, desenvolvendo desde soluções robustas de backend até ecossistemas mobile e web modernos. Constantemente focado em automação, criação de ferramentas e no compartilhamento de conhecimento.
+> Desenvolvedor Full-Stack autodidata, freelancer e **em busca ativa de uma posição fixa remota**. Atuo do front-end ao back-end, com experiência complementar em suporte técnico e manutenção de informática. Também crio conteúdo, cursos e projetos de tecnologia na internet.
 
 </td>
 <td width="35%" align="center" valign="middle">
@@ -50,40 +50,47 @@ const dev = {
 
 <div align="center">
 
-**🎯 De olho em oportunidades remotas em:**
+**🎯 De olho em oportunidades em:**
 
 <img src="https://img.shields.io/badge/Microsoft-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ita%C3%BA-EC7000?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bradesco-CC092F?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mercado%20Pago-00AAEF?style=for-the-badge&logo=mercadopago&logoColor=white"/>
+<img src="https://img.shields.io/badge/e%20outras%20empresas-1a1a2e?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🛠️ Conhecimentos & Tecnologias
+## 🛠️ Tech Stack
 
-### ⚡ Principal
-*   **Linguagens & Scripting:** TypeScript, JavaScript Avançado (ES6+), Java, Go, Shell/Bash.
-*   **Back-End & Runtimes:** Node.js, Desenvolvimento de APIs robustas.
-*   **Front-End & Mobile:** React, React Native, Tailwind CSS, HTML5, CSS3, SCSS.
-*   **Banco de Dados:** PostgreSQL *(Obrigatório / Avançado)*.
-*   **Versionamento:** Git, GitHub.
+<div align="center">
 
-<div align="left">
-  <img src="https://skillicons.dev"/>
-</div>
+**Linguagens & Scripting**
+
+<img src="https://skillicons.dev/icons?i=nodejs,py,cs,bash,powershell,js,ts&theme=dark&perline=9"/>
 
 <br/>
 
-### 🛠️ Secundário / Projetos Pessoais & Engenharia
-*   **Sistemas & Baixo Nível:** C++, C, Assembly *(Criação de Kernels, Engines e Launchers customizados de raiz)*.
-*   **CyberSecurity:** Administração de Redes Linux, Hardening de Sistemas, Auditoria de Vulnerabilidades *(Ambientes Linux, RHEL/Red Hat, Windows)*.
-*   **Game Development 3D:** Scripts, Modelagem, Animação e Criação de Mundos *(Unity, Unreal Engine, Godot, Blender)*.
-*   **Ferramentas, Cloud & SysAdmin:** Postman, AWS, Azure, Vercel, Hostinger, Docker, Design Web (Figma, Adobe, Canva), Suporte Técnico de Informática Avançado.
+**Front-End & Web**
 
-<div align="left">
-  <img src="https://skillicons.dev"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,sass&theme=dark&perline=9"/>
+
+<br/>
+
+**Banco de Dados & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,firebase&theme=dark&perline=9"/>
+
+<br/>
+
+**Design & Ferramentas de Dev**
+
+<img src="https://skillicons.dev/icons?i=figma,postman,git,github&theme=dark&perline=9"/>
+
+<br/>
+
+
 </div>
 
 ---
@@ -94,11 +101,12 @@ const dev = {
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="Activity Graph"/>
 
+
 </div>
 
 ---
 
-## 📬 Contato & Divulgação
+## 📬 Contato
 
 <table>
 <tr>
