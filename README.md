@@ -87,6 +87,10 @@ Linux, Red Hat Enterprise Linux (RHEL), Windows, Docker, Vercel, Hostinger
 
 ## Contato
 
+[![Bio e Links](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://0xkxbyte-bio.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0xKxbytee)
+[![Instagram](https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xkxbyte/)
+
 <img width="200" src="Linux.gif"/>
 
 Aberto a oportunidades remotas.
