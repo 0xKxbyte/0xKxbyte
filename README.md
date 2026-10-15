@@ -23,7 +23,7 @@ Desenvolvedor Full Stack com 3 anos de experiência em PostgreSQL, trabalhando d
 
 **Principais**
 
-<img src="https://skillicons.dev/icons?i=ts,js,git,github,java,go,bash,postgres,sql&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=ts,js,git,github,java,go,bash,postgres&theme=dark&perline=8"/>
 
 TypeScript, JavaScript Avançado (ES6+), Git/GitHub, Java, Go, Shell/Bash, PostgreSQL (obrigatório)
 
