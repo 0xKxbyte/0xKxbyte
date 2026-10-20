@@ -7,15 +7,17 @@ Minas Gerais, Brasil. Remoto.
 
 Objetivo: trabalhar no Itaú.
 
-[![Bio e Links](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://0xkxbyte-bio.netlify.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0xKxbytee)
-[![Instagram](https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xkxbyte/)
+<a href="https://www.itau.com.br/"> <img src="./assets/itau.svg" width="48" alt="Itaú"/> </a>
+
+[![Portfolio](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
 
 ---
 
 ## Sobre
 
-Desenvolvedor Full Stack com 3 anos de experiência em PostgreSQL, trabalhando do back-end ao front-end, com base em Linux e segurança.
+Sou **Desenvolvedor Web Full Stack** e atuo há quase 2 anos na criação de sites, aplicações e projetos pessoais. Também me dedico à **Engenharia de Software**, área pela qual tenho grande interesse e na qual venho desenvolvendo meus conhecimentos há aproximadamente 2 anos.
+Atualmente, estou expandindo minhas habilidades em **Cybersecurity**, uma área desafiadora que desperta minha curiosidade e vontade de aprender.
+Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evoluir constantemente como profissional, realizar o sonho de trabalhar no **Itaú** e, futuramente, **fundar minha própria startup**, transformando ideias em soluções que façam a diferença.
 
 ---
 
@@ -25,29 +27,13 @@ Desenvolvedor Full Stack com 3 anos de experiência em PostgreSQL, trabalhando d
 
 <img src="https://skillicons.dev/icons?i=ts,js,git,github,java,go,bash,postgres&theme=dark&perline=8"/>
 
-TypeScript, JavaScript Avançado (ES6+), Git/GitHub, Java, Go, Shell/Bash, PostgreSQL (obrigatório)
-
 **Secundárias**
 
 <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark&perline=8"/> <img src="https://img.shields.io/badge/Assembly-1a1a2e?style=for-the-badge"/>
 
-**Runtime e Frameworks**
-
-<img src="https://skillicons.dev/icons?i=nodejs,react,tailwind&theme=dark&perline=8"/> <img src="https://img.shields.io/badge/React%20Native-1a1a2e?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 **Infraestrutura e Sistemas**
 
-<img src="https://skillicons.dev/icons?i=linux,redhat,windows,docker,vercel,git,github&theme=dark&perline=8"/>
-
-Linux, Red Hat Enterprise Linux (RHEL), Windows, Docker, Vercel, Hostinger
-
-**Em estudo**
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark&perline=8"/>
-
-**Ferramentas**
-
-<img src="https://skillicons.dev/icons?i=figma,postman&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,redhat,docker,vercel,git,aws&theme=dark&perline=8"/>
 
 ---
 
@@ -55,13 +41,10 @@ Linux, Red Hat Enterprise Linux (RHEL), Windows, Docker, Vercel, Hostinger
 
 | Curso | Status |
 |---|---|
-| Programador Web Full Stack | Certificado |
-| Programador Web e Websites | Certificado |
 | PostgreSQL | Certificado |
 | Web Full Stack | Conclusão 11/2026 |
 | Engenharia de Software | Conclusão 12/2026 |
-| Cybersecurity | Conclusão 01/2027 |
-| Administração | Conclusão 08/2027 |
+| Cybersecurity | Conclusão 05/2027 |
 
 ## Idiomas
 
@@ -75,26 +58,27 @@ Linux, Red Hat Enterprise Linux (RHEL), Windows, Docker, Vercel, Hostinger
 
 ## Palavras-chave
 
-`TypeScript` `JavaScript` `ES6+` `Node.js` `React` `React Native` `Tailwind CSS` `PostgreSQL` `Java` `Go` `Shell` `Bash` `C` `C++` `Assembly` `Git` `GitHub` `Docker` `Vercel` `Hostinger` `Postman` `Figma` `Linux` `RHEL` `Red Hat Enterprise Linux` `Windows` `Cybersecurity` `Full Stack` `Engenharia de Software`
+`TypeScript` `JavaScript Avançado` `PostgreSQL` `Java` `Go` `Shell` `Bash` `C` `C++` `Assembly` `Git` `GitHub` `GitLab` `Docker` `Vercel` `Hostinger` `AWS` `Linux` `Red Hat Enterprise Linux` `Debian Stable` `Cybersecurity` `Engenharia de Software` 
 
 ---
 
 ## GitHub
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xKxbyte&theme=github-compact&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area_color=1a1a2e&area=true&hide_border=true" alt="Activity Graph"/>
+
+<div align="left">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph-plum-phi.vercel.app/graph?username=0xKxbyte&amp;theme=github-compact&amp;bg_color=0d1117&amp;color=888888&amp;line=ffffff&amp;point=ffffff&amp;area_color=1a1a2e&amp;area=true&amp;hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</div>
 
 ---
 
 ## Contato
 
-[![Bio e Links](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://0xkxbyte-bio.netlify.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-@0xKxbyte-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@0xKxbytee)
-[![Instagram](https://img.shields.io/badge/Instagram-@0xkxbyte-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/0xkxbyte/)
+[![Portfolio](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
 
 <img width="200" src="Linux.gif"/>
 
 Aberto a oportunidades remotas.
-
----
-
-*Criando tecnologia. Compartilhando conhecimento.*
