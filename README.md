@@ -16,7 +16,7 @@ Objetivo: trabalhar no Itaú.
   />
 </a>
 
-<br><br>
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
 
