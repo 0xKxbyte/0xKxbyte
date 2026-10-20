@@ -88,7 +88,7 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 ## Contato
 
-[![Portfolio](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
 
 <img width="200" src="Linux.gif"/>
 
