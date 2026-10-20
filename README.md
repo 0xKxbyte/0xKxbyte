@@ -40,9 +40,9 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark&perline=8"/> <img src="https://img.shields.io/badge/Assembly-1a1a2e?style=for-the-badge"/>
 
-**Infraestrutura e Sistemas**
+**Cloud**
 
-<img src="https://skillicons.dev/icons?i=linux,redhat,docker,vercel,git,aws&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,redhat,docker,vercel,aws&theme=dark&perline=8"/>
 
 ---
 
