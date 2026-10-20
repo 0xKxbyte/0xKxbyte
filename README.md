@@ -7,7 +7,14 @@ Minas Gerais, Brasil. Remoto.
 
 Objetivo: trabalhar no Itaú.
 
-<a href="https://www.itau.com.br/"> <img src="./assets/itau.svg" width="48" alt="Itaú"/> </a>
+
+<a href="https://www.itau.com.br/" target="_blank">
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:FilePath/ITAU_LOGO.svg"
+    width="48"
+    alt="Itaú"
+  />
+</a>
 
 [![Portfolio](https://img.shields.io/badge/Bio%20e%20Links-1a1a2e?style=for-the-badge&logo=linktree&logoColor=white)](https://portfolio-0xkxbyte.vercel.app/)
 
