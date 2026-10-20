@@ -34,7 +34,7 @@ Sou apaixonado por tecnologia, programação e inovação. Meu objetivo é evolu
 
 **Principais**
 
-<img src="https://skillicons.dev/icons?i=ts,js,git,github,java,go,bash,postgres&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,go,bash,postgres&theme=dark&perline=8"/>
 
 **Secundárias**
 
